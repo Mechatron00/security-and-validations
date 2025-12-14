@@ -1,0 +1,6 @@
+@security_and_validations_HostAddress = http://localhost:5207
+
+GET {{security_and_validations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
